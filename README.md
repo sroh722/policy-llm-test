@@ -239,3 +239,5 @@ AI tools were used to:
 - Generate initial documentation drafts
 
 All design decisions, model configuration choices, taxonomy validation, and methodological structure were reviewed and curated by the author.
+
+This repository contains sample code for demonstration purposes only.
