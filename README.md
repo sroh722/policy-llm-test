@@ -57,7 +57,6 @@ Purpose:
 Important notes:
 - Files in `data_saved/` are static and not automatically updated.
 - Running the pipeline again may produce slightly different outputs due to LLM stochasticity.
-- The authoritative workflow remains the scripts under `pilot_with_pdf/`.
 
 If you wish to regenerate outputs, run the scripts directly.
 
@@ -230,7 +229,7 @@ To reduce cost:
 
 ## 🤖 AI Assistance
 
-Portions of this project were developed with assistance from large language models (e.g., OpenAI ChatGPT and GitHub Copilot).
+Portions of this project were developed with assistance from OpenAI ChatGPT and GitHub Copilot.
 
 AI tools were used to:
 - Draft and refine code structure
