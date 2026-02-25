@@ -1,0 +1,69 @@
+{
+  "taxonomy": [
+    {
+      "category": "R&D Investment",
+      "definition": "Financial support and funding allocated to scientific research and development activities."
+    },
+    {
+      "category": "Technology Industry Support",
+      "definition": "Policies and measures aimed at promoting and securing key technology industries and supply chains."
+    },
+    {
+      "category": "International Competition and Cooperation",
+      "definition": "Strategies addressing global technological competition and collaboration among countries."
+    },
+    {
+      "category": "Innovation Talent Development",
+      "definition": "Initiatives to nurture, attract, and retain skilled human resources in science and technology."
+    },
+    {
+      "category": "Digital Economy and Infrastructure",
+      "definition": "Policies promoting digital technologies, infrastructures, and new economy business models."
+    },
+    {
+      "category": "Life and Health Technology",
+      "definition": "Support for research and development in life sciences, health technologies, and public health."
+    },
+    {
+      "category": "National Strategic Scientific Capabilities",
+      "definition": "Efforts to build self-reliant innovation systems and enhance national technological standards."
+    },
+    {
+      "category": "Industrial Modernization and New Industrialization",
+      "definition": "Policies aimed at transforming traditional industries through informatization and sustainable development."
+    },
+    {
+      "category": "Innovation Ecosystem and Clusters",
+      "definition": "Development of innovation hubs, science parks, and regional technology clusters."
+    },
+    {
+      "category": "Intellectual Property and Standardization",
+      "definition": "Measures to protect intellectual property rights and develop technology standards."
+    },
+    {
+      "category": "Science and Technology Governance",
+      "definition": "Frameworks and institutions guiding national science and technology policies and strategies."
+    }
+  ],
+  "minimal_extraction_schema_fields": [
+    "policy_name",
+    "category",
+    "description",
+    "implementing_body",
+    "target_industry_or_sector",
+    "geographical_scope",
+    "funding_amount",
+    "start_date",
+    "end_date",
+    "objectives",
+    "key_technologies",
+    "expected_outcomes"
+  ],
+  "coding_decision_rules": [
+    "Assign the category based on the primary objective of the policy instrument as described in the text.",
+    "If a policy involves financial support specifically for research activities, code it under 'R&D Investment'.",
+    "Policies focusing on human capital development in science and technology should be coded as 'Innovation Talent Development'.",
+    "When a policy targets digital infrastructure or promotes digital economy growth, classify it under 'Digital Economy and Infrastructure'.",
+    "If a policy addresses multiple categories, assign the category that represents the main strategic focus or largest resource allocation."
+  ]
+}

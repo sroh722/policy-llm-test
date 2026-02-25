@@ -1,0 +1,10 @@
+instrument_name,instrument_type,administering_agency,target_sector,beneficiary,funding_amount_or_cap,cost_share_or_matching,eligibility_rules,application_process,enforceability,evidence_spans,text,id
+Re-industrialisation Funding Scheme,grant,The Government,,companies registered in Hong Kong,up to HKD 15 million,matching funding,['Applicants must be companies registered in Hong Kong'],[],unclear,"['The Government provides matching funding', 'Each approved project may receive funding up to HKD 15 million', 'Applicants must be companies registered in Hong Kong']","
+    Re-industrialisation Funding Scheme: The Government provides matching funding.
+    Each approved project may receive funding up to HKD 15 million.
+    Applicants must be companies registered in Hong Kong.
+    ",0
+,export_control,relevant authority,advanced semiconductor equipment,,,,[],[],binding,"['Exports of advanced semiconductor equipment require prior license approval', 'from the relevant authority']","
+    Exports of advanced semiconductor equipment require prior license approval
+    from the relevant authority.
+    ",1

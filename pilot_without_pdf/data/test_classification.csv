@@ -1,0 +1,5 @@
+instrument_type,confidence,evidence_span,error,text,id
+other,0.0,,Invalid JSON response,The Government provides matching funding up to HKD 15 million for smart production line upgrades.,0
+other,0.0,,Invalid JSON response,Applicants must be companies registered in Hong Kong.,1
+other,0.0,,Invalid JSON response,Exports of certain dual-use items require a license approval.,2
+other,0.0,,Invalid JSON response,Companies must meet 60% local content requirement to qualify for incentives.,3

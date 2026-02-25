@@ -1,0 +1,14 @@
+{
+  "doc_type": "Government policy/strategy report",
+  "instrument_density": "Low to moderate",
+  "extraction_feasibility": "Moderate",
+  "likely_instrument_types": [
+    "Policy analysis",
+    "Strategic planning",
+    "Economic and technological indicators",
+    "Investment and funding data",
+    "International comparison metrics"
+  ],
+  "recommended_next_step": "Extract structured data on international and national I&T development trends, investment figures, and policy initiatives; identify key technology sectors and geopolitical influences for further detailed analysis.",
+  "notes": "The text provides a high-level overview of international and national innovation and technology (I&T) development trends, including geopolitical competition, investment in R&D, and sectoral focus areas such as semiconductors, AI, quantum computing, life and health technology, and digital economy. Quantitative data is limited but includes some investment figures (e.g., US and EU funding amounts). The document is suitable for extracting strategic and contextual information rather than granular technical data."
+}
