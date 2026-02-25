@@ -1,6 +1,6 @@
 # LLM-assisted Industrial Policy PDF Pipeline (Hong Kong Demo)
 
-This repository is an experimental environment for designing robust, reproducible LLM pipelines for industrial policy research.
+This repository is an experimental environment for designing robust, reproducible LLM pipelines for industrial policy research. You **do need** an OpenAI account and an **API key** to run.
 
 The project demonstrates a staged approach to:
 
