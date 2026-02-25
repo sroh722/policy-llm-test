@@ -136,7 +136,7 @@ Outputs:
 
 - `pilot_with_pdf/data/raw/doc_analysis_*.json`
 - `pilot_with_pdf/data/raw/taxonomy_plan_*.json`
-- (will be used in Step 2) `taxonomy_plan_recent.json`
+- (will be used in Step 3) `taxonomy_plan_recent.json`
 
 This stage:
 - Classifies document type
